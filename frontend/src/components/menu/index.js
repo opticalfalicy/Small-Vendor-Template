@@ -6,9 +6,9 @@ class Menu extends Component {
   render () {
     return (
       <div className="menu-page main-item">
-        <div className="menu-text" />
-        <div className="about-content" />
-
+        <div className="menu">
+          <div className="menu-text" />
+        </div>
       </div>
     );
   }

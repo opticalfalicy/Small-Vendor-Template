@@ -1,6 +1,6 @@
 https://color.adobe.com/Tema-de-color-143-color-theme-11338511/
 #4A9246 green
-#4C6C23 yellgreen
+#5cc431 yellgreen
 #143D28 dark green
 #6F5030 tan
 #715330 gold
