@@ -4,8 +4,8 @@
   /* padding: 1%; */
   display: flex;
   flex-direction: column;
-  background: #5cc431;
-  border: 0.5vw solid #143d28;
+  background: #65a603;
+  border: 0.5vw solid #022601;
   align-items: space-evenly;
   justify-content: center;
 }
@@ -27,10 +27,10 @@
   font-family: 'Raleway', sans-serif;
   font-size: 5vw;
   color: rgb(164, 152, 136);
-  background: #4a9246;
+  background: #2e5902;
   margin-top: 0%;
   /* padding: 2% 0; */
-  /* border: 5px solid #4a9246; */
+  /* border: 5px solid#65A603; */
 }
 
 .inner {
@@ -41,14 +41,14 @@
 }
 
 .map {
-  border: 0.5vw solid #143d28;
+  border: 0.5vw solid #022601;
   width: 30vw;
   height: 50vh;
 }
 
 .hours-div {
-  background: #4a9246;
-  border: 0.5vw solid #143d28;
+  background: #2e5902;
+  border: 0.5vw solid #022601;
   width: 30vw;
   height: 50vh;
   display: flex;
@@ -58,7 +58,7 @@
 }
 
 .days {
-  color: white;
+  color: #f2e4d8;
   /* width: 0%; */
   height: 90%;
   display: flex;
